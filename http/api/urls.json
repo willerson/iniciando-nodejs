@@ -1,0 +1,12 @@
+{
+  "urls": [
+    {
+      "name": "Rocketseat",
+      "url": "http://rocketseat.com.br"
+    },
+    {
+      "name": "Globo",
+      "url": "http://globo.com"
+    }
+  ]
+}
