@@ -16,7 +16,7 @@ Foram utilizados alguns módulos nativos como:
 ## Para utilizar
 ### Clone este repositório
 ```
-$ git clone <https://github.com/willerson/iniciando-nodejs.git>
+$ git clone https://github.com/willerson/iniciando-nodejs.git
 ```
 ### Acesse a pasta do projeto no terminal/cmd
 ```
