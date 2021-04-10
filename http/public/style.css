@@ -10,8 +10,7 @@ html {
 
 body {
   font-family: 'Quicksand', sans-serif;
-  
-  background: #7159c1;
+  background: #00b894;
 }
 
 .container {
@@ -70,7 +69,7 @@ li {
 a {
   display: block;
   
-  color: #333;
+  color: #2d3436;
   text-decoration: none;  
   
   padding: 16px 0;
