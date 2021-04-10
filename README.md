@@ -34,4 +34,4 @@ $ node server.js
 $ node api/index.js 
 ### Será executado na porta:3000 - acesse <http://localhost:3000> 
 
-##### Projeto seguindo vídeo Masterclass do canal da [Rocketseat - Node.js: Iniciando da teoria à prática | Masterclass #11](https://www.youtube.com/watch?v=DiXbJL3iWVs&ab_channel=Rocketseat) no 
+##### Projeto seguindo vídeo Masterclass do canal da [Rocketseat - Node.js: Iniciando da teoria à prática | Masterclass #11](https://www.youtube.com/watch?v=DiXbJL3iWVs&ab_channel=Rocketseat) no Youtube
